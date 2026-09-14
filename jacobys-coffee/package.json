@@ -1,0 +1,9 @@
+{
+  "name": "jacobys-coffee",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jacoby's Coffee shop website with online ordering and payment.",
+  "dependencies": {
+    "stripe": "^16.0.0"
+  }
+}
