@@ -1,9 +1,0 @@
-{
-  "name": "rise-n-grind",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Rise n Grind coffee shop website with online ordering and payment.",
-  "dependencies": {
-    "stripe": "^16.0.0"
-  }
-}
